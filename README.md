@@ -98,7 +98,7 @@ Click on "Perform Action" -> RM Mini light should be White -> Press the command 
 - Device -> Select -> Name = The device to control, ex. "Samsung TV"
 - Command -> Select -> Name = the command to learn, ex "Power"
 
-Click on "Perform Action" -> RM Mini light flashes hopefully recaver also reacts...
+Click on "Perform Action" -> RM Mini light flashes hopefully TV also reacts...
 
 
 # TODO
