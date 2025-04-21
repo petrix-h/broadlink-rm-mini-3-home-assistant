@@ -9,7 +9,7 @@ Tested with Python 3.9.6 on OS X
 ## Clone and run python API
 
 ```
-git clone https://github.com/mjg59/python-broadlink$0
+git clone https://github.com/mjg59/python-broadlink
 ```
 
 ```
